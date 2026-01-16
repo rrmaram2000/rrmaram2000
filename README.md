@@ -5,28 +5,13 @@
 </p>
 
 <h1 align="center">Ritish Raghav Maram</h1>
-<h3 align="center">PhD Candidate · George Washington University</h3>
+<h3 align="center">PhD Student · George Washington University</h3>
 <p align="center"><i>Developing learnable wavelet methods for medical imaging</i></p>
 
 ## Research
 
 My research focuses on **learnable wavelets** — adaptive signal decomposition where filter coefficients are optimized during training. This bridges classical wavelet theory with deep learning for medical imaging applications like tumor detection, CT reconstruction, and radiomics.
 
-## Projects
-
-| Repository | Description |
-|------------|-------------|
-| [Learnable_Wavelets_Matlab_rrmaram](https://github.com/rrmaram2000/Learnable_Wavelets_Matlab_rrmaram) | Trainable wavelet layers for medical imaging in MATLAB |
-| [liver-tumor-radiomics](https://github.com/rrmaram2000/liver-tumor-radiomics) | Clinical radiomics pipeline (NIH collaboration) |
-
-## Publications
-
-- **IEEE ISBI 2024** — "Wavelets and Colon Cancer: An Inside Look"
-- **SPIE Medical Imaging 2026** — *Accepted*
-
-## Credentials
-
-**MathWorks Certified MATLAB Professional** · Image Processing Specialization · GitHub Copilot Certified
 
 <p align="center">
   <a href="mailto:rmaram33@gwu.edu">Email</a> ·
