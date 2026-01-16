@@ -1,16 +1,37 @@
-## Hi there 👋
+# Ritish Raghav Maram
 
-<!--
-**rrmaram2000/rrmaram2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Biomedical Engineer | PhD Candidate, George Washington University (Dec 2026)**
 
-Here are some ideas to get you started:
+Developing learnable wavelet methods for medical imaging under Prof. Murray Loew
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Research
+
+My research focuses on **learnable wavelets** — adaptive signal decomposition methods where filter coefficients are optimized during training rather than fixed analytically. This approach bridges classical wavelet theory with modern deep learning, enabling data-driven feature extraction for medical imaging tasks.
+
+I maintain the first open-source MATLAB implementation of learnable wavelet layers, with applications in image compression, CT reconstruction, and radiomics feature extraction.
+
+---
+
+### Featured Projects
+
+| Repository | Description |
+|------------|-------------|
+| [Learnable_Wavelets_Matlab_rrmaram](https://github.com/rrmaram2000/Learnable_Wavelets_Matlab_rrmaram) | Learnable wavelet filters for medical imaging — first open-source MATLAB implementation |
+| [liver-tumor-radiomics](https://github.com/rrmaram2000/liver-tumor-radiomics) | Clinical radiomics analysis pipeline (NIH collaboration) |
+
+---
+
+### Presentations
+
+- **IEEE ISBI 2024** — "Wavelets and Colon Cancer: An Inside Look"
+- **SPIE Medical Imaging 2026** — Accepted
+
+---
+
+### Credentials
+
+MathWorks Certified MATLAB Professional | Image Processing Specialization (MathWorks) | GitHub Copilot Certified
+
+📧 [rmaram33@gwu.edu](mailto:rmaram33@gwu.edu) · 🔗 [LinkedIn](https://www.linkedin.com/in/ritish-raghav-maram-863b78155/) · 🏅 [Credly](https://www.credly.com/users/ritish-raghav-maram)
