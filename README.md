@@ -23,5 +23,5 @@ My research focuses on **learnable wavelets** — adaptive signal decomposition 
   <a href="https://www.linkedin.com/in/ritish-raghav-maram-863b78155/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.credly.com/users/ritish-raghav-maram"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly" /></a>&nbsp;
   <a href="https://orcid.org/0009-0003-2682-7559"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
-  <a href="https://x.com/ritish_maram"><img src="https://img.shields.io/badge/X-181717?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/ritish_maram"><img src="https://img.shields.io/badge/X_/_Twitter-181717?style=flat&logo=x&logoColor=white" alt="X" /></a>
 </p>
