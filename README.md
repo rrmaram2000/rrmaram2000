@@ -18,8 +18,8 @@ My research focuses on **learnable wavelets** — adaptive signal decomposition 
 
 
 <p align="center">
-  <a href="mailto:rrmaram2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-  <a href="mailto:rmaram33@gwu.edu"><img src="https://img.shields.io/badge/GW_Email-033C5A?style=flat&logo=microsoftoutlook&logoColor=white" alt="GW Email" /></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=rrmaram2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&to=rmaram33@gwu.edu"><img src="https://img.shields.io/badge/GW_Email-033C5A?style=flat&logo=microsoftoutlook&logoColor=white" alt="GW Email" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/ritish-raghav-maram-863b78155/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://www.credly.com/users/ritish-raghav-maram"><img src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="Credly" /></a>&nbsp;
   <a href="https://orcid.org/0009-0003-2682-7559"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" /></a>&nbsp;
