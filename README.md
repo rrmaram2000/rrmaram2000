@@ -9,12 +9,12 @@
 </p>
 
 <h1 align="center">Ritish Raghav Maram</h1>
-<h3 align="center">PhD Student · George Washington University</h3>
+<h3 align="center">PhD Candidate · George Washington University</h3>
 <p align="center"><i>Developing learnable wavelet methods for medical imaging</i></p>
 
 ## Research
 
-My research focuses on **learnable wavelets** — adaptive signal decomposition where filter coefficients are optimized during training. This bridges classical wavelet theory with deep learning for medical imaging applications like tumor detection, CT reconstruction, and radiomics.
+My research focuses on **learnable wavelets**—adaptive signal decomposition in which filter coefficients are optimized during training. This bridges classical wavelet theory with adaptive filter learning for medical signal processing applications, with a focus on CT reconstruction.
 
 
 <p align="center">
